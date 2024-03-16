@@ -1,0 +1,15 @@
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.exe
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.deps.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.runtimeconfig.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.AssemblyInfoInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.AssemblyInfo.cs
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.csproj.CoreCompileInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.sourcelink.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\refint\feature-branching-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\feature-branching-wflow.genruntimeconfig.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\obj\Release\net8.0\ref\feature-branching-wflow.dll

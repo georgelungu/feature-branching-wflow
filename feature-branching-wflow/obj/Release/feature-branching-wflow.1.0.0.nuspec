@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>feature-branching-wflow</id>
+    <version>1.0.0</version>
+    <authors>feature-branching-wflow</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="4083d6820d77f61a314d28a56f1d4ce86a8e772f" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.runtimeconfig.json" target="lib\net8.0\feature-branching-wflow.runtimeconfig.json" />
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\feature-branching-wflow\feature-branching-wflow\bin\Release\net8.0\feature-branching-wflow.dll" target="lib\net8.0\feature-branching-wflow.dll" />
+  </files>
+</package>
